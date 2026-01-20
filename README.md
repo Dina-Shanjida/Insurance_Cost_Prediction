@@ -45,6 +45,8 @@ URL: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 ## Project Structure
 
+```
+
 Insurance_Cost_Prediction/
 │
 ├── data/                     # Dataset files
@@ -58,7 +60,7 @@ Insurance_Cost_Prediction/
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
 
-
+```
 ---
 
 ## Pipeline / Workflow
