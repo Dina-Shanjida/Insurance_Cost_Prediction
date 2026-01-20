@@ -1,0 +1,2 @@
+Age,Gender,BMI,No of children,Smoker,Region,output,timestamp
+25,F,24,2,yes,southwest,Predicted insurance amount: 17874.57217099076,2026-01-20 20:37:28.492442
