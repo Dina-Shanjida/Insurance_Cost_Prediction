@@ -43,24 +43,7 @@ URL: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 ---
 
-## Project Structure
 
-```
-
-Insurance_Cost_Prediction/
-│
-├── data/                     # Dataset files
-├── notebooks/                # Jupyter notebooks for exploration
-├── src/                      # Source code scripts
-│   ├── preprocessing.py      # Data preprocessing functions
-│   ├── train.py              # Model training script
-│   ├── evaluate.py           # Model evaluation script
-│   └── predict.py            # Model inference script
-├── model/                    # Saved trained model
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-
-```
 ---
 
 ## Pipeline / Workflow
